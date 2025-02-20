@@ -1,0 +1,49 @@
+{
+    "translation": {
+        "header": {
+            "title": "FR_Tax Calculator",
+            "language": {
+                "en": "EN",
+                "fr": "FR"
+            }
+        },
+        "salaryForm": {
+            "salary": "FR_Salary",
+            "salaryPlaceholder": "FR_Enter Salary",
+            "year": "FR_Year",
+            "yearPlaceholder": "FR_Enter Year",
+            "submit": "FR_Submit",
+            "errors": {
+                "salaryRequired": "FR_Please enter salary",
+                "yearRequired": "FR_Please enter year",
+                "yearRange": "FR_Year must be 2019, 2020, 2021, or 2022",
+                "salaryPositive": "FR_Salary should be greater than 0"
+
+            }
+        },
+        "taxInfo": {
+            "title": "FR_Tax Breakdown",
+            "taxPerBand": "FR_Tax per Band",
+            "bandRate": "FR_Band {{bandRate}}%",
+            "totalTaxPaid": "FR_Total Tax Paid : ",
+            "effectiveRate": "FR_Effective Rate : "
+        },
+        "error": {
+            "message": "FR_Unable to fetch tax rates",
+            "tryAgain": "FR_Please try again!"
+        },
+        "charts": {
+            "bar": {
+                "taxAmount": "FR_Tax Amount",
+                "bandRate": "FR_Band {{bandRate}}%",
+                "title": "FR_Breakdown of tax amount per band"
+            },
+            "pie": {
+                "totaltaxes": "FR_Total taxes",
+                "incomeAfterTaxes": "FR_Income after taxes",
+                "cad": "FR_CAD",
+                "title": "FR_Taxes v/s Income after taxes"
+            }
+        }
+    }
+}

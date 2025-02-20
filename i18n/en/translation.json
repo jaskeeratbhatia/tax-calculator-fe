@@ -1,0 +1,48 @@
+{
+    "translation": {
+        "header": {
+            "title": "Tax Calculator",
+            "language": {
+                "en": "EN",
+                "fr": "FR"
+            }
+        },
+        "salaryForm": {
+            "salary": "Salary",
+            "salaryPlaceholder": "Enter Salary",
+            "year": "Year",
+            "yearPlaceholder": "Enter Year",
+            "submit": "Submit",
+            "errors": {
+                "salaryRequired": "Please enter salary",
+                "yearRequired": "Please enter year",
+                "yearRange": "Year must be 2019, 2020, 2021, or 2022",
+                "salaryPositive": "Salary should be greater than 0"
+            }
+        },
+        "taxInfo": {
+            "title": "Tax Breakdown",
+            "taxPerBand": "Tax per Band",
+            "bandRate": "Band {{bandRate}}%",
+            "totalTaxPaid": "Total Tax Paid : ",
+            "effectiveRate": "Effective Rate : "
+        },
+        "error": {
+            "message": "Unable to fetch tax rates",
+            "tryAgain": "Please try again!"
+        },
+        "charts": {
+            "bar": {
+                "taxAmount": "Tax Amount",
+                "bandRate": "Band {{bandRate}}%",
+                "title": "Breakdown of tax amount per band"
+            },
+            "pie": {
+                "totaltaxes": "Total taxes",
+                "incomeAfterTaxes": "Income after taxes",
+                "cad": "CAD",
+                "title": "Taxes v/s Income after taxes"
+            }
+        }
+    }
+}
