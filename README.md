@@ -1,4 +1,4 @@
-# Tac Calculator
+# Tax Calculator
 
 This is a sample application for tax calculation.
 
