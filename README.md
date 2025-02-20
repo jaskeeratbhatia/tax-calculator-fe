@@ -60,5 +60,16 @@ This is a sample application for tax calculation.
 - **Testing**: Vitest, React Testing Library  
 - **API Handling**: Axios  
 - **i18n**: react-i18next  
-- **Data Visualization**: React-Charts-2  
+- **Data Visualization**: React-Charts-2
+
+## Screenshots
+
+<img width="1013" alt="Image" src="https://github.com/user-attachments/assets/e2a2d78a-2b81-4d02-ba80-932d697f8ac5" />
+<img width="1017" alt="Image" src="https://github.com/user-attachments/assets/ea4af1f7-f171-45fa-99c5-ae2490a38853" />
+<img width="509" alt="Image" src="https://github.com/user-attachments/assets/c53d7512-1cfb-41ad-85c4-2adfea3b839c" />
+<img width="743" alt="Image" src="https://github.com/user-attachments/assets/49dba4ae-3b1a-483e-aa93-d3a40f7fba36" />
+<img width="572" alt="Image" src="https://github.com/user-attachments/assets/6aafaa56-ee72-411f-a06b-0a77fb361d40" />
+<img width="501" alt="Image" src="https://github.com/user-attachments/assets/d7bc6337-5da6-4ea0-b018-6ff4b09ed897" />
+<img width="1020" alt="Image" src="https://github.com/user-attachments/assets/dcafc573-d891-47e9-9ae3-afb08b5c09cd" />
+<img width="1001" alt="Image" src="https://github.com/user-attachments/assets/647cb46f-20e1-4563-867b-7f6734b397dd" />
 
